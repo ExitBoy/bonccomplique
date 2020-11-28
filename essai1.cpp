@@ -1,4 +1,4 @@
 main()
 {
-    cout << "wtf man" ;
+    
 }
